@@ -5,9 +5,7 @@ Um projeto simples em JavaScript para calcular o somatório de números divisív
 ## Como Executar
 
 (Certifique-se de ter o Git devidamente instalado em sua máquina)
-1. Clone o repositório:
-
-git clone https://github.com/FernandoECV/Desafio-Tecnico-1.git
+1. Clone o repositório: git clone https://github.com/FernandoECV/Desafio-Tecnico-1.git
 
 2. Abra o arquivo index.html em um navegador da web (google chrome, Firefox)
 
